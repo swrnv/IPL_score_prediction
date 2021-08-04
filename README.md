@@ -1,4 +1,4 @@
-###ipl score predictor
+### IPL Score Predictor
 
 ## Project Overview
 • Created a model that predicts the score (in terms of range) of IPL matches<br/>
@@ -30,6 +30,6 @@ Evaluation metric: Root Mean Squared Error (RMSE)<br/>
 • Add columns that consists of striker and non-striker's strike rates.<br/>
 • Implement this problem statement using Artificial Neural Network (ANN).<br/>
 
-## Check out in kaggle:
+## Check out project in kaggle:
 https://www.kaggle.com/swrnvh/first-innings-score-prediction-for-ipl
 
